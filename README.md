@@ -1,2 +1,2 @@
 # monster-rolodex
-List of cards with search 
+React POC for list of cards with search 
